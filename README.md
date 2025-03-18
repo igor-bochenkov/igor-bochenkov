@@ -12,8 +12,6 @@
 ![Git](https://img.shields.io/badge/Git%20-%20%23181717?style=plastic&logo=git&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp%20-%20%23CF4647?style=plastic&logo=Gulp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma%20-%20%23F24E1E?style=plastic&logo=figma&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack%20-%20%238DD6F9?style=plastic&logo=Webpack&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js%20-%20%235FA04E?style=plastic&logo=Node.js&logoColor=white)
 
 ## 💼 Projects
 
